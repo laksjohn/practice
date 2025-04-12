@@ -2,7 +2,7 @@ package com.example.ds;
 
 import java.util.*;
 
-public class ArrayStudy {
+public class  ArrayStudy {
 
     public static void main(String args[]) {
 

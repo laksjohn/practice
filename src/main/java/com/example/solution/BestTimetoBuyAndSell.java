@@ -3,7 +3,6 @@ package com.example.solution;
 public class BestTimetoBuyAndSell {
 
     public int maxProfit(int[] prices) {
-
         int maxProfit = 0;
         int currProfit = 0;
         int leastValue = Integer.MAX_VALUE;
